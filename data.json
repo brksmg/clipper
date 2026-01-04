@@ -1,0 +1,12 @@
+{
+"config": {
+"gemini_api_key": "",
+"max_clips": 3,
+"clip_threshold": "high"
+},
+"stats": {
+"processed": 0,
+"clips": 0
+},
+"logs": []
+}
