@@ -1,12 +1,12 @@
 {
-"config": {
-"gemini_api_key": "",
-"max_clips": 3,
-"clip_threshold": "high"
-},
-"stats": {
-"processed": 0,
-"clips": 0
-},
-"logs": []
+  "config": {
+    "gemini_api_key": "",
+    "max_clips": 3,
+    "password": "RF2025"
+  },
+  "stats": {
+    "total_processed": 0,
+    "total_clips": 0
+  },
+  "logs": []
 }
